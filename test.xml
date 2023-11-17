@@ -5,4 +5,8 @@
 		<Hoehe>230</Hoehe>
 	<Daten>
 	<MaxGeschwindigkeit>180</MaxGeschwindigkeit>
+	<AktuelleDaten>
+		<Geschwindigkeit>50</Geschwindigkeit>
+		<AbstandZuVorderAuto>6.9</AbstandZuVorderAuto>
+	</AktuelleDaten>
 </Auto>
