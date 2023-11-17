@@ -1,12 +1,12 @@
 <?xml version="1.0">
 <Auto>
 	<Daten>
-		<Breite>180</Breite>
-		<Hoehe>230</Hoehe>
+		<Breite>10</Breite>
+		<Hoehe>2350</Hoehe>
 	<Daten>
 	<MaxGeschwindigkeit>180</MaxGeschwindigkeit>
 	<AktuelleDaten>
-		<Geschwindigkeit>50</Geschwindigkeit>
-		<AbstandZuVorderAuto>42.0</AbstandZuVorderAuto>
+		<Geschwindigkeit>100</Geschwindigkeit>
+		<AbstandZuVorderAuto>77.49</AbstandZuVorderAuto>
 	</AktuelleDaten>
 </Auto>
